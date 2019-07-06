@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sidebarSeparatorColor">#585858</color>
+
+    <color name="background_tab_pressed">#1AFFFFFF</color>
+    <color name="tab_foreground_color">#000000</color>
+    <color name="accent_nurture">#2BBC83</color>
+</resources>
